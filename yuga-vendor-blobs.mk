@@ -10,7 +10,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/yuga/proprietary/bin/qcks:system/bin/qcks \
     vendor/sony/yuga/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/sony/yuga/proprietary/bin/qseecomd:system/bin/qseecomd \
-    vendor/sony/yuga/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/sony/yuga/proprietary/bin/ta2bin:system/bin/ta2bin \
     vendor/sony/yuga/proprietary/bin/tad_static:system/bin/tad_static \
     vendor/sony/yuga/proprietary/bin/taimport:system/bin/taimport \
@@ -18,7 +17,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/yuga/proprietary/bin/updatemiscta:system/bin/updatemiscta \
     vendor/sony/yuga/proprietary/bin/usbhub:system/bin/usbhub \
     vendor/sony/yuga/proprietary/bin/usbhub_init:system/bin/usbhub_init \
-    vendor/sony/yuga/proprietary/bin/wcnss_service:system/bin/wcnss_service \
     vendor/sony/yuga/proprietary/etc/firmware/a225p5_pm4.fw:system/etc/firmware/a225p5_pm4.fw \
     vendor/sony/yuga/proprietary/etc/firmware/a225_pfp.fw:system/etc/firmware/a225_pfp.fw \
     vendor/sony/yuga/proprietary/etc/firmware/a225_pm4.fw:system/etc/firmware/a225_pm4.fw \
