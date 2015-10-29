@@ -96,7 +96,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/yuga/proprietary/lib/hw/camera.lagan.so:system/lib/hw/camera.lagan.so \
     vendor/sony/yuga/proprietary/lib/hw/camera.msm8960.so:system/lib/hw/camera.msm8960.so \
     vendor/sony/yuga/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
-    vendor/sony/yuga/proprietary/lib/hw/lights.default.so:system/lib/hw/lights.default.so \
     vendor/sony/yuga/proprietary/lib/hw/nfc.msm8960.so:system/lib/hw/nfc.msm8960.so \
     vendor/sony/yuga/proprietary/lib/hw/power.default.so:system/lib/hw/power.default.so \
     vendor/sony/yuga/proprietary/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
@@ -114,13 +113,13 @@ PRODUCT_COPY_FILES += \
     vendor/sony/yuga/proprietary/lib/libcameralight.so:system/lib/libcameralight.so \
     vendor/sony/yuga/proprietary/lib/libcredential-manager-service.so:system/lib/libcredential-manager-service.so \
     vendor/sony/yuga/proprietary/lib/libcsd-client.so:system/lib/libcsd-client.so \
-    vendor/sony/yuga/proprietary/lib/libdivxdrmdecrypt.so:system/lib/libdivxdrmdecrypt.so \
     vendor/sony/yuga/proprietary/lib/libdrmfs.so:system/lib/libdrmfs.so \
     vendor/sony/yuga/proprietary/lib/libdsi_netctrl.so:system/lib/libdsi_netctrl.so \
     vendor/sony/yuga/proprietary/lib/libdsutils.so:system/lib/libdsutils.so \
     vendor/sony/yuga/proprietary/lib/libface.so:system/lib/libface.so \
     vendor/sony/yuga/proprietary/lib/libgemini.so:system/lib/libgemini.so \
     vendor/sony/yuga/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
+    vendor/sony/yuga/proprietary/lib/libI420colorconvert.so:system/lib/libI420colorconvert.so \
     vendor/sony/yuga/proprietary/lib/libidd.so:system/lib/libidd.so \
     vendor/sony/yuga/proprietary/lib/libidl.so:system/lib/libidl.so \
     vendor/sony/yuga/proprietary/lib/libimage-jpeg-dec-omx-comp.so:system/lib/libimage-jpeg-dec-omx-comp.so \
@@ -128,7 +127,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/yuga/proprietary/lib/libimage-omx-common.so:system/lib/libimage-omx-common.so \
     vendor/sony/yuga/proprietary/lib/libinvensense_hal.so:system/lib/libinvensense_hal.so \
     vendor/sony/yuga/proprietary/lib/libkeyctrl.so:system/lib/libkeyctrl.so \
-    vendor/sony/yuga/proprietary/lib/liblights-core.so:system/lib/liblights-core.so \
     vendor/sony/yuga/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/sony/yuga/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
     vendor/sony/yuga/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
