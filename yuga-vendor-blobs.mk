@@ -95,6 +95,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/yuga/proprietary/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin:system/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin \
     vendor/sony/yuga/proprietary/lib/hw/camera.lagan.so:system/lib/hw/camera.lagan.so \
     vendor/sony/yuga/proprietary/lib/hw/camera.msm8960.so:system/lib/hw/camera.msm8960.so \
+    vendor/sony/yuga/proprietary/lib/hw/lights.vendor.default.so:system/lib/hw/lights.vendor.default.so \
     vendor/sony/yuga/proprietary/lib/hw/nfc.msm8960.so:system/lib/hw/nfc.msm8960.so \
     vendor/sony/yuga/proprietary/lib/hw/power.default.so:system/lib/hw/power.default.so \
     vendor/sony/yuga/proprietary/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
@@ -125,6 +126,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/yuga/proprietary/lib/libimage-omx-common.so:system/lib/libimage-omx-common.so \
     vendor/sony/yuga/proprietary/lib/libinvensense_hal.so:system/lib/libinvensense_hal.so \
     vendor/sony/yuga/proprietary/lib/libkeyctrl.so:system/lib/libkeyctrl.so \
+    vendor/sony/yuga/proprietary/lib/liblights-core.so:system/lib/liblights-core.so \
     vendor/sony/yuga/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/sony/yuga/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
     vendor/sony/yuga/proprietary/lib/libmercury.so:system/lib/libmercury.so \
