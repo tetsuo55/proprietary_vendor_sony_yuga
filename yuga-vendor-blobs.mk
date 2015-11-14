@@ -96,7 +96,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/yuga/proprietary/lib/hw/camera.lagan.so:system/lib/hw/camera.lagan.so \
     vendor/sony/yuga/proprietary/lib/hw/camera.msm8960.so:system/lib/hw/camera.msm8960.so \
     vendor/sony/yuga/proprietary/lib/hw/lights.vendor.default.so:system/lib/hw/lights.vendor.default.so \
-    vendor/sony/yuga/proprietary/lib/hw/nfc.msm8960.so:system/lib/hw/nfc.msm8960.so \
     vendor/sony/yuga/proprietary/lib/hw/power.default.so:system/lib/hw/power.default.so \
     vendor/sony/yuga/proprietary/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
     vendor/sony/yuga/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
