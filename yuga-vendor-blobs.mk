@@ -226,6 +226,5 @@ PRODUCT_COPY_FILES += \
     vendor/sony/yuga/proprietary/vendor/lib/librs_adreno_sha1.so:system/vendor/lib/librs_adreno_sha1.so \
     vendor/sony/yuga/proprietary/vendor/lib/librs_adreno.so:system/vendor/lib/librs_adreno.so \
     vendor/sony/yuga/proprietary/vendor/lib/libRSDriver_adreno.so:system/vendor/lib/libRSDriver_adreno.so \
-    vendor/sony/yuga/proprietary/vendor/lib/libsc-a2xx.so:system/vendor/lib/libsc-a2xx.so \
     vendor/sony/yuga/proprietary/vendor/lib/libsc-a3xx.so:system/vendor/lib/libsc-a3xx.so \
     vendor/sony/yuga/proprietary/vendor/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so \
