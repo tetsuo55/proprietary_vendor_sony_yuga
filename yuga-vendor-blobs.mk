@@ -112,6 +112,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/yuga/proprietary/lib/libcameralight.so:system/lib/libcameralight.so \
     vendor/sony/yuga/proprietary/lib/libcredential-manager-service.so:system/lib/libcredential-manager-service.so \
     vendor/sony/yuga/proprietary/lib/libcsd-client.so:system/lib/libcsd-client.so \
+    vendor/sony/yuga/proprietary/lib/libdrmdiag.so:system/lib/libdrmdiag.so \
     vendor/sony/yuga/proprietary/lib/libdrmfs.so:system/lib/libdrmfs.so \
     vendor/sony/yuga/proprietary/lib/libdsi_netctrl.so:system/lib/libdsi_netctrl.so \
     vendor/sony/yuga/proprietary/lib/libdsutils.so:system/lib/libdsutils.so \
@@ -154,6 +155,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/yuga/proprietary/lib/libmplmpu.so:system/lib/libmplmpu.so \
     vendor/sony/yuga/proprietary/lib/libnetmgr.so:system/lib/libnetmgr.so \
     vendor/sony/yuga/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
+    vendor/sony/yuga/proprietary/lib/liboemcrypto.so:system/lib/liboemcrypto.so \
     vendor/sony/yuga/proprietary/lib/libpin-cache.so:system/lib/libpin-cache.so \
     vendor/sony/yuga/proprietary/lib/libprotobuf-c.so:system/lib/libprotobuf-c.so \
     vendor/sony/yuga/proprietary/lib/libqcci_legacy.so:system/lib/libqcci_legacy.so \
@@ -198,6 +200,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/yuga/proprietary/vendor/firmware/keymaster/keymaster.b03:system/vendor/firmware/keymaster/keymaster.b03 \
     vendor/sony/yuga/proprietary/vendor/firmware/keymaster/keymaster.flist:system/vendor/firmware/keymaster/keymaster.flist \
     vendor/sony/yuga/proprietary/vendor/firmware/keymaster/keymaster.mdt:system/vendor/firmware/keymaster/keymaster.mdt \
+    vendor/sony/yuga/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
     vendor/sony/yuga/proprietary/vendor/lib/egl/eglsubAndroid.so:system/vendor/lib/egl/eglsubAndroid.so \
     vendor/sony/yuga/proprietary/vendor/lib/egl/libEGL_adreno.so:system/vendor/lib/egl/libEGL_adreno.so \
     vendor/sony/yuga/proprietary/vendor/lib/egl/libGLESv1_CM_adreno.so:system/vendor/lib/egl/libGLESv1_CM_adreno.so \
@@ -212,6 +215,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/yuga/proprietary/vendor/lib/libc2d30.so:system/vendor/lib/libc2d30.so \
     vendor/sony/yuga/proprietary/vendor/lib/libCB.so:system/vendor/lib/libCB.so \
     vendor/sony/yuga/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
+    vendor/sony/yuga/proprietary/vendor/lib/libdrmdecrypt.so:system/vendor/lib/libdrmdecrypt.so \
     vendor/sony/yuga/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
     vendor/sony/yuga/proprietary/vendor/lib/libgsl.so:system/vendor/lib/libgsl.so \
     vendor/sony/yuga/proprietary/vendor/lib/libizat_core.so:system/vendor/lib/libizat_core.so \
@@ -228,3 +232,8 @@ PRODUCT_COPY_FILES += \
     vendor/sony/yuga/proprietary/vendor/lib/libRSDriver_adreno.so:system/vendor/lib/libRSDriver_adreno.so \
     vendor/sony/yuga/proprietary/vendor/lib/libsc-a3xx.so:system/vendor/lib/libsc-a3xx.so \
     vendor/sony/yuga/proprietary/vendor/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so \
+    vendor/sony/yuga/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
+    vendor/sony/yuga/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
+    vendor/sony/yuga/proprietary/vendor/lib/libWVphoneAPI.so:system/vendor/lib/libWVphoneAPI.so \
+    vendor/sony/yuga/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
+    vendor/sony/yuga/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
