@@ -6,6 +6,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/yuga/proprietary/bin/illumination_service:system/bin/illumination_service \
     vendor/sony/yuga/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/sony/yuga/proprietary/bin/ks:system/bin/ks \
+    vendor/sony/yuga/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/sony/yuga/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/sony/yuga/proprietary/bin/qcks:system/bin/qcks \
     vendor/sony/yuga/proprietary/bin/qmuxd:system/bin/qmuxd \
