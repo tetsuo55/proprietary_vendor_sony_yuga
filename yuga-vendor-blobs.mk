@@ -167,8 +167,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/yuga/proprietary/lib/libril-qc-qmi-1.so:system/lib/libril-qc-qmi-1.so \
     vendor/sony/yuga/proprietary/lib/libsys-utils.so:system/lib/libsys-utils.so \
     vendor/sony/yuga/proprietary/lib/libta.so:system/lib/libta.so \
-    vendor/sony/yuga/proprietary/lib/modules/radio-iris-transport.ko:system/lib/modules/radio-iris-transport.ko \
-    vendor/sony/yuga/proprietary/lib/modules/wlan.ko:system/lib/modules/wlan.ko \
     vendor/sony/yuga/proprietary/vendor/camera/flash.dat:system/vendor/camera/flash.dat \
     vendor/sony/yuga/proprietary/vendor/camera/KMO08BN0_IMX111.dat:system/vendor/camera/KMO08BN0_IMX111.dat \
     vendor/sony/yuga/proprietary/vendor/camera/LGI02BN0.dat:system/vendor/camera/LGI02BN0.dat \
